@@ -62,7 +62,6 @@ App = {
     showLink: function (buyers, account) {
         let buyingInstance;
 
-        // TODO modify to our needs
         App.contracts.BuyGenomicData.deployed().then(function (instance) {
             buyingInstance = instance;
 
@@ -80,11 +79,8 @@ App = {
         
     },
 
-    // TODO rename function
     handleBuying: function (event) {
         event.preventDefault();
-
-        // TODO modify to our needs
 
         let genomicDataId = parseInt($(event.target).data('id'));
 
