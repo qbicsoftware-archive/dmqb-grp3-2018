@@ -1,0 +1,146 @@
+[
+    {
+		"id": 0,
+		"name": "Mycobacterium tuberculosis",
+		"size": "1,2 MB",
+		"assemblyId": "GCA_001383315.1",
+		"bioProject": "PRJEB2138",
+		"assemblyLevel": "Scaffold",
+		"fileLocation": "genomicData/GCF_001383315.1_7769_7_12_genomic.fna.gz"
+	},
+	{
+		"id": 1,
+		"name": "Cyanidioschyzon merolae strain 10D",
+		"size": "4,9 MB",
+		"assemblyId": "GCA_000091205.1",
+		"bioProject": "PRJNA28057, PRJNA10792",
+		"assemblyLevel": "Complete genome",
+		"fileLocation": "genomicData/GCF_000091205.1_ASM9120v1_genomic.fna.gz"
+	},
+	{
+		"id": 2,
+		"name": "Acetobacter senegalensis",
+		"size": "1,1 MB",
+		"assemblyId": "GCA_001499615.1",
+		"bioProject": "PRJEB7128",
+		"assemblyLevel": "Complete genome",
+		"fileLocation": "genomicData/GCF_001499615.1_Acetobacter_senegalensis_108B_genomic.fna.gz"
+	},
+	{
+		"id": 3,
+		"name": "Achromobacter ruhlandii",
+		"size": "1,7 MB",
+		"assemblyId": "GCA_002082135.1",
+		"bioProject": "PRJNA340957",
+		"assemblyLevel": "Chromosome",
+		"fileLocation": "genomicData/GCF_002082135.1_ASM208213v1_genomic.fna.gz"
+	},
+	{
+		"id": 4,
+		"name": "Achromobacter xylosoxidans A8",
+		"size": "2,0 MB",
+		"assemblyId": "GCA_000165835.1",
+		"bioProject": "PRJNA48393",
+		"assemblyLevel": "Complete genome",
+		"fileLocation": "genomicData/GCF_000165835.1_ASM16583v1_genomic.fna.gz"
+	},
+	{
+		"id": 5,
+		"name": "Candidatus Ruthia magnifica str. Cm (Calyptogena magnifica)",
+		"size": "332,1 KB",
+		"assemblyId": "GCA_000015105.1",
+		"bioProject": "PRJNA16841",
+		"assemblyLevel": "Complete genome",
+		"fileLocation": "genomicData/GCF_000015105.1_ASM1510v1_genomic.fna.gz"
+	},
+	{
+		"id": 6,
+		"name": "Achimota virus 1",
+		"size": "5,0 KB",
+		"assemblyId": "GCA_000925575.1",
+		"bioProject": "PRJNA265896",
+		"assemblyLevel": "Complete genome",
+		"fileLocation": "genomicData/GCF_000925575.1_ViralProj265896_genomic.fna.gz"
+	},
+	{
+		"id": 7,
+		"name": "Adana virus",
+		"size": "4,1 KB",
+		"assemblyId": "GCA_001550965.1",
+		"bioProject": "PRJNA310915",
+		"assemblyLevel": "Complete genome",
+		"fileLocation": "genomicData/GCF_001550965.1_ViralMultiSegProj310915_genomic.fna.gz"
+	},
+	{
+		"id": 8,
+		"name": "Nostoc azollae 0708",
+		"size": "1,5 MB",
+		"assemblyId": "GCA_000196515.1",
+		"bioProject": "PRJNA30807",
+		"assemblyLevel": "Complete genome",
+		"fileLocation": "genomicData/GCF_000196515.1_ASM19651v1_genomic.fna.gz"
+	},
+	{
+		"id": 9,
+		"name": "Acinetobacter ursingii",
+		"size": "943,0 KB",
+		"assemblyId": "GCA_002337895.1",
+		"bioProject": "PRJNA348753",
+		"assemblyLevel": "Scaffold",
+		"fileLocation": "genomicData/GCA_002337895.1_ASM233789v1_genomic.fna.gz"
+	},
+	{
+		"id": 10,
+		"name": "Bacillus cucumis",
+		"size": "1,6 MB",
+		"assemblyId": "GCA_002860255.1",
+		"bioProject": "PRJNA418493",
+		"assemblyLevel": "Contig",
+		"fileLocation": "genomicData/GCF_002860255.1_ASM286025v1_genomic.fna.gz"
+	},
+	{
+		"id": 11,
+		"name": "Bacillus coagulans 2-6",
+		"size": "883,8 KB",
+		"assemblyId": "GCA_000217835.1",
+		"bioProject": "PRJNA61501",
+		"assemblyLevel": "Complete genome",
+		"fileLocation": "genomicData/GCF_000217835.1_ASM21783v1_genomic.fna.gz"
+	},
+	{
+		"id": 12,
+		"name": "Rotavirus A",
+		"size": "5,7 KB",
+		"assemblyId": "GCA_002643315.1",
+		"bioProject": "",
+		"assemblyLevel": "Complete genome",
+		"fileLocation": "genomicData/GCA_002643315.1_ASM264331v1_genomic.fna.gz"
+	},
+	{
+		"id": 13,
+		"name": "Spring beauty latent virus",
+		"size": "2,9 KB",
+		"assemblyId": "GCA_000854785.1",
+		"bioProject": "PRJNA15009",
+		"assemblyLevel": "Complete genome",
+		"fileLocation": "genomicData/GCF_000854785.1_ViralMultiSegProj15009_genomic.fna.gz"
+	},
+	{
+		"id": 14,
+		"name": "zeta proteobacterium SCGC AB-133-C04",
+		"size": "387,9 KB",
+		"assemblyId": "GCA_000379285.1",
+		"bioProject": "PRJNA165221",
+		"assemblyLevel": "Scaffold",
+		"fileLocation": "genomicData/GCF_000379285.1_ASM37928v1_genomic.fna.gz"
+	},
+	{
+		"id": 15,
+		"name": "Salmonella enterica",
+		"size": "1,3 MB",
+		"assemblyId": "GCA_003197355.1",
+		"bioProject": "PRJNA186035",
+		"assemblyLevel": "Contig",
+		"fileLocation": "genomicData/GCF_003197355.1_ASM319735v1_genomic.fna.gz"
+	}
+]
