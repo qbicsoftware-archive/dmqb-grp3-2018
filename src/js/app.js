@@ -49,7 +49,7 @@ App = {
             App.contracts.BuyGenomicData.setProvider(App.web3Provider);
 
             // Use our contract to retrieve and show the link of the bought data entries
-            return App.showLink();
+            return App.markBought();
         });
 
         return App.bindEvents();
@@ -59,7 +59,7 @@ App = {
         $(document).on('click', '.btn-buy', App.handleBuying);
     },
 
-    showLink: function (buyers, account) {
+    markBought: function (buyers, account) {
         let buyingInstance;
 
         App.contracts.BuyGenomicData.deployed().then(function (instance) {
