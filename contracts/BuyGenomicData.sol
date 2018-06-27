@@ -1,12 +1,11 @@
 pragma solidity ^0.4.17;
 
-contract BuyGenomicData {
+contract BuyGenomicData{
     address[16] public buyers;
-    
+
     // Buy genomic data file
     function buy(uint genomicDataId) public returns (uint) {
         require(genomicDataId >= 0 && genomicDataId <= 15);
-
         buyers[genomicDataId] = msg.sender;
 
         return genomicDataId;
