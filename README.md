@@ -60,4 +60,4 @@ To do so please run the following commands on the command line
 6. `cd ..`
 7. `rm -r temp`
 
-Now you can retry the steps in shown in the previous Section.
+Now you can retry the steps shown in the previous Section.
