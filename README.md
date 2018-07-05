@@ -46,12 +46,12 @@ this is to redownload the node_modules and replace them.
 To do so please run the following commands on the command line
 (make sure you are in the root directory of this project):
 
-1. `remove -r node_modules`
+1. `rm -r node_modules`
 2. `mkdir temp`
 3. `cd temp`
 4. `truffle unbox pet-shop`
 5. `cp -r node_modules ../`
 6. `cd ..`
-7. `remove -r temp`
+7. `rm -r temp`
 
 Now you can retry the steps in shown in the previous Section.
