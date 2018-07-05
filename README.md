@@ -31,9 +31,15 @@ https://metamask.io/
   * `truffle migrate --reset`
 3. call the following command to start the server instance used by the DApp
   * `npm run dev` (if this command leads to an error please read the section **Known Issues**)
-4. Open MetaMask and configure it to use it
+4. Open MetaMask and configure it to use it (if you already used MetaMask before the last three steps are enough otherwise please all of the following 8 steps)
+  * If you open MetaMask for the first time, then you first have to create an account and set a password
+  * Save the seed that appears in the field after creating an somwhere save (although for this prototype it is not important)
+  * Now click on the arrow next to the MetaMask logo in the upper left corner
+  * Click on the custom RPC entry and insert the following URL http://localhost:7545 in the RPC location field and save
+  * Now Logout from the account
   * Connect to the private blockchain running on http://localhost:7545
-  * restore password from mnemonic
+  * restore password from seed phrase (do not use the seed phrase from before instead use the mnemonic that is displayed in the Ganache GUI)
+  * set a new password and you are good to go
 5. Now you are ready to try the prototype.
 
 
